@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Complete your code and display output",
+      "setup": "g++ -o a.out ./Homework/HW04/hw04-1-variable.cpp",
+      "run": "./a.out",
+      "input": "",
+      "output": "10 20.0 Haha a",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    }
+  ]
+}
