@@ -13,3 +13,7 @@
         Answer = 6
 */
 #include <stdio.h>
+int main() {
+    int a, b, c ;
+    printf( "\n Answer = %d", a + b + c ) ;
+}
